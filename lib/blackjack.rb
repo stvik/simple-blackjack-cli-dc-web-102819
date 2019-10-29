@@ -39,7 +39,7 @@ end
 
 def hit?(current_total)
   # code hit? here
-  promt_user
+  prompt_user
   input = get_user_input
   if input == 's'
     return current_total
