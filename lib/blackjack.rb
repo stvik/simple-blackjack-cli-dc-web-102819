@@ -68,6 +68,5 @@ def runner
   # code runner here
   welcome
   current_total = intial_round
-  input = 
 end
     
