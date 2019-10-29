@@ -50,6 +50,7 @@ def hit?(current_total)
   else
     invalid_command
     prompt_user
+    get_user_input
     return current_total
   end
 end
