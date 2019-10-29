@@ -66,6 +66,8 @@ end
 
 def runner
   # code runner here
-  
+  welcome
+  current_total = intial_round
+  hit?(current_total)
 end
     
